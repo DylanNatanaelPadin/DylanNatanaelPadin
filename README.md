@@ -1,4 +1,7 @@
 ### Hi there 👋
+Hola me llamo Dylan Soy estudiante de la escuela Experimetal ProA con enfasis en tic 
+Naci el 19/03/07
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
 <!--
 **DylanNatanaelPadin/DylanNatanaelPadin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
